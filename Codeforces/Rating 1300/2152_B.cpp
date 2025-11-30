@@ -36,5 +36,6 @@ while(t--){
         cout<<z<<endl;
     }
 }
+ 
 return 0;
 }
